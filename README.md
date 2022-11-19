@@ -1,4 +1,4 @@
-<h3>Linear Systems<h3>
+### Linear Systems
 
 > The goal of this project was to implement the Gauss Elimintation method and Gauss-Seidel method on C language, to accomplish this were used:
 
